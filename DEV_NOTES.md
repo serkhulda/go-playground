@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Fixed off-by-one error in loop
 - Added healthcheck endpoint stub
+
+## 2026-03-22
+- Reviewed open issues, added labels
+- Added CONTRIBUTING.md stub
