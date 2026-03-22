@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Bumped patch version
 - Improved error handling in edge cases
+
+## 2026-03-22
+- Updated CI cache strategy
+- Added .editorconfig for consistent formatting
